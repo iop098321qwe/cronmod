@@ -4,7 +4,8 @@
   "description": "Simple helpers for working with user crontab entries. Provides quick listing and editing with a post-edit mirror script.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
   },
   "repository": {
     "type": "git",
