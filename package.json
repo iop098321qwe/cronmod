@@ -1,0 +1,26 @@
+{
+  "name": "cronmod",
+  "version": "0.0.1",
+  "description": "Simple helpers for working with user crontab entries. Provides quick listing and editing with a post-edit mirror script.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iop098321qwe/cronmod.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/iop098321qwe/cronmod/issues"
+  },
+  "homepage": "https://github.com/iop098321qwe/cronmod#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^21.0.2",
+    "@commitlint/config-conventional": "^21.0.2",
+    "husky": "^9.1.7"
+  }
+}
